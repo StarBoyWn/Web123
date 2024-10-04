@@ -116,8 +116,7 @@ section {
 /* Navbar */
 
 nav {
-  margin-top: 10px;
-  border-radius: 20px;
+
   position: fixed;
   top: 0;
   display: flex;
@@ -133,6 +132,8 @@ nav {
   backdrop-filter: blur(10px);
   --webkit-backdrop-filter: blur(10px);
   box-shadow: 0 8px 42px rgba(0, 0, 0, 0.1);
+    margin-top: 10px;
+  border-radius: 20px;
 }
 
 nav .menu-items {
