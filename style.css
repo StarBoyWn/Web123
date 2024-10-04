@@ -116,6 +116,8 @@ section {
 /* Navbar */
 
 nav {
+  margin-top: 10px;
+  border-radius: 20px;
   position: fixed;
   top: 0;
   display: flex;
@@ -903,3 +905,4 @@ aside .download-btn {
   height: 30%;
   width: 30%;
 }
+
