@@ -1,0 +1,239 @@
+<!-- HTML !-->
+<button class="button-33" role="button">Button 33</button>
+
+/* CSS */
+.button-33 {
+  background-color: #c2fbd7;
+  border-radius: 100px;
+  box-shadow: rgba(44, 187, 99, .2) 0 -25px 18px -14px inset,rgba(44, 187, 99, .15) 0 1px 2px,rgba(44, 187, 99, .15) 0 2px 4px,rgba(44, 187, 99, .15) 0 4px 8px,rgba(44, 187, 99, .15) 0 8px 16px,rgba(44, 187, 99, .15) 0 16px 32px;
+  color: green;
+  cursor: pointer;
+  display: inline-block;
+  font-family: CerebriSans-Regular,-apple-system,system-ui,Roboto,sans-serif;
+  padding: 7px 20px;
+  text-align: center;
+  text-decoration: none;
+  transition: all 250ms;
+  border: 0;
+  font-size: 16px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-33:hover {
+  box-shadow: rgba(44,187,99,.35) 0 -25px 18px -14px inset,rgba(44,187,99,.25) 0 1px 2px,rgba(44,187,99,.25) 0 2px 4px,rgba(44,187,99,.25) 0 4px 8px,rgba(44,187,99,.25) 0 8px 16px,rgba(44,187,99,.25) 0 16px 32px;
+  transform: scale(1.05) rotate(-1deg);
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    text-align: center; /* Center elements in the container */
+}
+
+.cart-container {
+    margin-top: 20px; /* Add margin above the cart image */
+}
+
+.img {
+    max-width: 100%; /* Ensure image is responsive */
+    height: auto; /* Maintain aspect ratio */
+}
+
+.button-37 {
+    margin-top: 10px; /* Space between image and button */
+}
+
+.button-37 a {
+    display: inline-block; /* Make the link look like a button */
+    padding: 12px 24px; /* Add some padding */
+    background-color: #007BFF; /* Button background color */
+    color: white; /* Text color */
+    text-decoration: none; /* Remove underline */
+    border-radius: 5px; /* Rounded corners */
+    transition: background-color 0.3s; /* Smooth background color transition */
+    font-size: 16px; /* Set the font size */
+}
+
+.button-37 a:hover {
+    background-color: #0056b3; /* Darker color on hover */
+}
+
+
+
+.container {
+  display: flex;
+  justify-content: center; /* Center elements horizontally within the container */
+}
+
+.cart-container {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column; /* Stack elements vertically */
+  align-items: center; /* Center elements horizontally within the cart container */
+}
+
+.img {
+  max-width: 100%;
+  height: auto;
+}
+
+.button-37 {
+  margin-top: 20px; /* Spacing between image and button */
+}
+
+.button-37 a {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #007BFF;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color   
+ 0.3s;
+  font-size: 16px;
+}
+
+.button-37 a:hover {
+  background-color: #0056b3;
+}
+
+
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.cart-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+
+.img {
+  max-width: 100%;
+  height: auto;
+}
+
+
+/* CSS */
+.button-37 {
+  background-color: #13aa52;
+  border: 1px solid #13aa52;
+  border-radius: 4px;
+  box-shadow: rgba(0, 0, 0, .1) 0 2px 4px 0;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  font-family: "Akzidenz Grotesk BQ Medium", -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  outline: none;
+  outline: 0;
+  padding: 10px 25px;
+  text-align: center;
+  transform: translateY(0);
+  transition: transform 150ms, box-shadow 150ms;
+  user-select: none;
+  -webkit-user-select: none;
+    touch-action: manipulation;
+    position: relative;
+
+}
+
+.button-37:hover {
+  box-shadow: rgba(0, 0, 0, .15) 0 3px 9px 0;
+  transform: translateY(-2px);
+}
+
+@media (min-width: 768px) {
+  .button-37 {
+    padding: 10px 30px;
+  }
+}
+
+
+<!-- HTML !-->
+<button class="button-33" role="button">Button 33</button>
+
+/* CSS */
+.button-33 {
+  background-color: #c2fbd7;
+  border-radius: 100px;
+  box-shadow: rgba(44, 187, 99, .2) 0 -25px 18px -14px inset,rgba(44, 187, 99, .15) 0 1px 2px,rgba(44, 187, 99, .15) 0 2px 4px,rgba(44, 187, 99, .15) 0 4px 8px,rgba(44, 187, 99, .15) 0 8px 16px,rgba(44, 187, 99, .15) 0 16px 32px;
+  color: green;
+  cursor: pointer;
+  display: inline-block;
+  font-family: CerebriSans-Regular,-apple-system,system-ui,Roboto,sans-serif;
+  padding: 7px 20px;
+  text-align: center;
+  text-decoration: none;
+  transition: all 250ms;
+  border: 0;
+  font-size: 16px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-33:hover {
+  box-shadow: rgba(44,187,99,.35) 0 -25px 18px -14px inset,rgba(44,187,99,.25) 0 1px 2px,rgba(44,187,99,.25) 0 2px 4px,rgba(44,187,99,.25) 0 4px 8px,rgba(44,187,99,.25) 0 8px 16px,rgba(44,187,99,.25) 0 16px 32px;
+  transform: scale(1.05) rotate(-1deg);
+}
+
+Sandbox
+Casual
+
+
+
+    <section id="why">
+      <div class="container">
+        <div class="left">
+          <img src="images/image2.png" alt="" />
+        </div>
+
+        <div class="right">
+          <h2>Why Choose Our Company for Gaming</h2>
+          <p>
+            We excel in Gaming, delivering
+            innovative, high-performing apps with top-notch quality, seamless
+            user experience, and timely delivery.
+          </p>
+
+          <div class="features-container">
+            <div class="feature">
+              <div class="icon">
+                <img src="images/check-icon.svg" alt="" />
+              </div>
+              <h3>Expertise</h3>
+              <p>
+                Our team of skilled developers has extensive expertise in
+                Flutter app development.
+              </p>
+            </div>
+
+            <div class="feature">
+              <div class="icon">
+                <img src="images/check-icon.svg" alt="" />
+              </div>
+              <h3>Customization</h3>
+              <p>
+                We tailor each mobile app to meet the unique requirements and
+                preferences of our clients.
+              </p>
+            </div>
+          </div>
+
+          <a href="#" class="btn light">Contact Us</a>
+        </div>
+      </div>
+    </section>
+
+
+    delected
